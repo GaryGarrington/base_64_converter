@@ -1,0 +1,14 @@
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.csprojAssemblyReference.cache
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.csproj.CoreCompileInputs.cache
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.exe.config
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.exe
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.pdb
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.exe
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.pdb
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.exe.config
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.exe
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\bin\Debug\base64_converter_pokus4.pdb
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.csproj.AssemblyReference.cache
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.csproj.CoreCompileInputs.cache
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.exe
+C:\Users\Karel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\base64_converter_pokus4\obj\Debug\base64_converter_pokus4.pdb

@@ -1,0 +1,7 @@
+Ahoj, dekuji za vase velke snazeni, pokud je vase dekodovaci metoda spravna, 
+tak by tohle mel byt citelny text. Prvni krok k uspechu mate za sebou a 
+zbyva vyzkouset, jestli je vas program stejne tak dobre ucinny i na 
+dekodovani binarniho souboru. Mel by byt. Pustte do neho tedy jako vstup 
+soubor Obrazek.b64 a vystup nasmerujte treba do souboru Obrazek.jpg. Pokud 
+budete uspesni, tak kdyz ho otevrete, mel by v nem byt "Kocici aristokrat 
+ze zamku Chyse". ;-)
